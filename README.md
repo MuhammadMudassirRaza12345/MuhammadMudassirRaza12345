@@ -1,7 +1,7 @@
 ### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
 
-🌱I am **Muhammad Mudassir Raza** Complete Bacheors in Computer Science.
+🌱I am **Muhammad Mudassir Raza** Complete Bachelors in Computer Science.
 
 👀 I’m interested in solution of problems related to python.
 
