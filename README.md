@@ -14,7 +14,7 @@
 
 ## About My Work 
 
->The basic python begineers to advance  which i learn is [here](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS#readme)
+>The basic python begineers to advance level practice is [here](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS#readme)
 
 >The python task which i done taken from code with harry is [here](https://github.com/MuhammadMudassirRaza12345/Python_Practice_Code_With_Harry#readme)
 
