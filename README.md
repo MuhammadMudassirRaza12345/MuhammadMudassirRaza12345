@@ -20,6 +20,8 @@
 
 >The python task which i done take from hakerrank is [here](https://github.com/MuhammadMudassirRaza12345/HackerRank#readme)
 
+>The python task which i done take from code wars is [here](https://github.com/MuhammadMudassirRaza12345/code_wars/blob/main/codewars.ipynb)
+
 >The python task which i done take from PIAIC is [here](https://github.com/MuhammadMudassirRaza12345/Python_Assignments-PIAIC-#readme)
 
 > The Crud operation Using Flask  is [here](https://todo-list-with-flask.herokuapp.com/)
