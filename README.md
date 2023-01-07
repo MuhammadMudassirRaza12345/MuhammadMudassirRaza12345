@@ -35,11 +35,11 @@
 
 ### Bronze Badge Earned For Python From Hacker Rank
 --------------------------------------------------
-![Bronze Badge Earned For Python From Hacker Rank](https://media-exp1.licdn.com/dms/image/sync/C4D27AQGeqa7KCXxoJQ/articleshare-shrink_800/0/1665762643255?e=1666472400&v=beta&t=QWp2qbKiiu6TVk88HOSpZice8-Bb3gfF48ICaYqAguc)
+![Bronze Badge Earned For Python From Hacker Rank](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS/blob/main/images/1672202723138.jpg)
 --------------------------------------------------
 ### Gold Badge Earned For Python From Hacker Rank
 --------------------------------------------------
-![Gold Badge From For Python Hacker Rank](https://media-exp1.licdn.com/dms/image/sync/C4D27AQFqswdkk0Q6AA/articleshare-shrink_800/0/1665428081532?e=1666472400&v=beta&t=lGdOy5o3fZ53wat8Iiq7RQ6PkPN_fE-gn4rcsFIowMk)
+![Gold Badge From For Python Hacker Rank](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS/blob/main/images/1672935859582.jpg)
 --------------------------------------------------
 
 
