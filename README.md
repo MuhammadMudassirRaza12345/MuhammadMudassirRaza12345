@@ -3,7 +3,7 @@
 
 🌱I am **Muhammad Mudassir Raza** Complete Bachelors in Computer Science.
 
-👀 I’m interested in solution of problems related to python.
+👀 I’m interested in solution of problems related to python,ETL Pipeline , DataWare Housing.
 
 <!-- - 👋 Hi, I’m @MuhammadMudassirRaza12345
 - 👀 I’m interested in ...
@@ -11,8 +11,22 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  -->
+ 
+ ## Tools
+    . Python
+    . ETL Pipeline
+    . Kafka,Spark,Airflow
+    . MySQL,MongoDB
+    . API (Flask,FASTAPI)
+    . Docker
+    .Linux
+    . AWS 
+    . Streamlit
+ 
 
 ## About My Work 
+
+> I am Certified Data Engineer From KarachidotAI . The details of topics and Projects is [here](https://github.com/MuhammadMudassirRaza12345/KARACHIAI/tree/main#readme)
 
 >The basic python begineers to advance level practice is [here](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS#readme)
 
