@@ -3,7 +3,7 @@
 
 🌱I am **Muhammad Mudassir Raza** Complete Bachelors in Computer Science.
 
-- 💞️ I’m  working as Data Engineer from last one year
+💞️ I’m  working as Data Engineer from last one year
 
 👀 I’m interested in solution of problems related to python,ETL Pipeline , DataWare Housing.
 
