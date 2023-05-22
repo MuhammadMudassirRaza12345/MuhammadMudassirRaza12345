@@ -65,7 +65,7 @@
 
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-mudassirraza6322ab200-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaali96/)](https://www.linkedin.com/in/mustafaali96/)   -->
-[![Linkedin Badge](https://img.shields.io/badge/-MuhammadMudassirRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=h https://www.linkedin.com/in/MuhammadMudassirRaza/)](https://www.linkedin.com/in/mudassir-raza-6322ab200/)   [![Facebook Badge](https://img.shields.io/badge/-mudassir.raza.12345.96-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/mudassir.raza.12345)](https://facebook.com/mudassir.raza.12345)   [![Gmail Badge](https://img.shields.io/badge/-786mudassirraza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:786mudassirraza@gmail.com)](mailto:786mudassirraza@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-MuhammadMudassirRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=h https://www.linkedin.com/in/MuhammadMudassirRaza/)](https://www.linkedin.com/in/MuhammadMudassirRaza/)   [![Facebook Badge](https://img.shields.io/badge/-mudassir.raza.12345.96-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/mudassir.raza.12345)](https://facebook.com/mudassir.raza.12345)   [![Gmail Badge](https://img.shields.io/badge/-786mudassirraza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:786mudassirraza@gmail.com)](mailto:786mudassirraza@gmail.com)  
 
 <!---
 MuhammadMudassirRaza12345/MuhammadMudassirRaza12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
