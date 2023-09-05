@@ -40,6 +40,13 @@
 
  `scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask`[Click Here](https://github.com/MuhammadMudassirRaza12345/scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask)
 
+ `Essential_SQL_for_Data_Engineers`[Click Here](https://github.com/MuhammadMudassirRaza12345/Essential_SQL_for_Data_Engineers)
+
+
+
+ 
+
+
 
 > **I am Certified Data Engineer From KarachidotAI . The details of topics and Projects is** [here](https://github.com/MuhammadMudassirRaza12345/KARACHIAI/tree/main#readme)
 
