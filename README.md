@@ -40,7 +40,11 @@
 
  `scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask`[Click Here](https://github.com/MuhammadMudassirRaza12345/scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask)
 
- `Essential_SQL_for_Data_Engineers`[Click Here](https://github.com/MuhammadMudassirRaza12345/Essential_SQL_for_Data_Engineers)
+ `Essential_SQL_for_Data_Engineers`[Click Here](https://github.com/MuhammadMudassirRaza12345/Essential_SQL_for_Data_Engineers)'
+
+ `Task-NoSQL`[Click Here](https://github.com/MuhammadMudassirRaza12345/Task-NoSQL)'
+
+ Task-NoSQL
 
 
 
