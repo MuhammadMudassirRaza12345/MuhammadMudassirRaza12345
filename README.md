@@ -24,9 +24,11 @@
     . ETL Pipeline
     . Kafka,Spark,Airflow
     . MySQL,MongoDB
-    . API (Flask,FASTAPI)
+    . API (Flask,Django,FASTAPI)
     . Docker
     .Linux
+    .Databricks
+    .Snowflake
     . AWS 
     . Streamlit
     
