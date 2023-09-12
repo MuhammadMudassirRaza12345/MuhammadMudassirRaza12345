@@ -4,7 +4,7 @@
 ## 🚀 About Me
 🌱I am **Muhammad Mudassir Raza** Complete Bachelors in Computer Science.
 
-💞️ I’m  working as Data Engineer from last one year
+💞️ I’m  working as Python Developer and Data Engineer from last one year
 
 👀 I’m interested in solution of problems related to python,ETL Pipeline , DataWare Housing.
 
@@ -36,6 +36,7 @@
 
 
 
+`-Stock Market Kafka Real Time Data Engineering Project usinfg Kafka ,AWS S3 an Snoflake Cloud`[Click Here](https://github.com/MuhammadMudassirRaza12345/Stock-Market-Kafka-Real-Time-Data-Engineering-Project-using-AWS-KAFKA-and-SNOWFLAKE)
 `- Pipe-Data-with-Airflow-Assignment-Part-1`[Click Here](https://github.com/MuhammadMudassirRaza12345/Pipe-Data-with-Airflow-Assignment-Part-1)
 
  `- Essential_SQL_for_Data_Engineers`[Click Here](https://github.com/MuhammadMudassirRaza12345/Essential_SQL_for_Data_Engineers)'
