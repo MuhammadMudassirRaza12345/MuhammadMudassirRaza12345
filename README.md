@@ -23,7 +23,7 @@
     . Python
     . ETL Pipeline
     . Kafka,Spark,Airflow
-    . MySQL,MongoDB
+    . MySQL,MongoDB,Postgress
     . API (Flask,Django,FASTAPI)
     . Docker
     .Linux
