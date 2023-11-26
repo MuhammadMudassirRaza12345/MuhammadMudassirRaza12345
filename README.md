@@ -21,17 +21,19 @@
  
  ## 🛠 Skills 
     . Python
-    . ETL Pipeline
+    . pandas , matlplotlib ,seaborn.
+    . webscraping.
+    . ETL Pipeline and Datawarehouse.
     . Kafka,Spark,Airflow
-    . MySQL,MongoDB,Postgress
+    . MySQL,MongoDB,PostgresSQL
     . API (Flask,Django,FASTAPI)
-    . Docker
-    .Linux
-    .Databricks
-    .Snowflake
-    . AWS 
+    . Docker and Docker compose
+    . Linux
+    . Databricks
+    . Snowflake
+    . AWS (S3, Glue, Athena, EC2, lamda, Quick Sight, AWS Databrew)
     . Streamlit
-    
+    . GCP ( compute engine VM and Vertex AI)
   
 
 ## About My Work
