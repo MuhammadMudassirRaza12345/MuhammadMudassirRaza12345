@@ -19,40 +19,63 @@
 - 📫 How to reach me ...
  -->
  
- ## 🛠 Skills 
+## 🛠 Skills 
     . Python
-    . pandas , matlplotlib ,seaborn.
-    . webscraping.
-    . ETL Pipeline and Datawarehouse.
-    . Kafka,Spark,Airflow
-    . MySQL,MongoDB,PostgresSQL
-    . API (Flask,Django,FASTAPI)
-    . Docker and Docker compose
-    . Linux
-    . Databricks
-    . Snowflake
-    . AWS (S3, Glue, Athena, EC2, lamda, Quick Sight, AWS Databrew)
+    . Scraping (requests, Beautiful soup, scrappy, Selenium)
+    . SQL (PostgreSQL, MySQL).
+    . NoSQL (MongoDB)
+    . Airflow, cron job
+    . ETL Pipelines and Data Warehouse and Data Modeling.
+    . Apache spark (SparkSQL and Pyspark)
+    . Kafka (Batch and stream processing)
+    . AWS (Glue, EC2, S3 bucket, Athena, AWS lambda,IAM Roles and policies, AWS Data Brew, AWS Quick Sight)
+    . Backend (Flask, Fast Api, Django)
+    . Data Visualization (Pandas,Matplotlib,Seaborn)
     . Streamlit
-    . GCP ( compute engine VM and Vertex AI)
+    . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI, Google Cloud Storage , Google Cloud Bucket , Cloud Function)
+    . AWS Databricks
+    . Snowflake 
+    . DBT Cloud 
+    . Docker and Docker compose
+    . DevOPs and CI/CD and Microservices
+    . Git, Linux and Shell Scripting
+    . LLM (GPT-4 Turbo ,Dall-e-3 for image generation)
+    . Jira, Click up and Teaching Programming and Computer Science. 
   
 
 ## About My Work
-
-
-
-`- Stock Market Kafka Real Time Data Engineering Project usinfg Kafka ,AWS S3 an Snoflake Cloud`[Click Here](https://github.com/MuhammadMudassirRaza12345/Stock-Market-Kafka-Real-Time-Data-Engineering-Project-using-AWS-KAFKA-and-SNOWFLAKE)
-
-`- Pipe-Data-with-Airflow-Assignment-Part-1`[Click Here](https://github.com/MuhammadMudassirRaza12345/Pipe-Data-with-Airflow-Assignment-Part-1)
-
- `- Essential_SQL_for_Data_Engineers`[Click Here](https://github.com/MuhammadMudassirRaza12345/Essential_SQL_for_Data_Engineers)'
-
- `- Task-NoSQL`[Click Here](https://github.com/MuhammadMudassirRaza12345/Task-NoSQL)'
-
- `- scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask`[Click Here](https://github.com/MuhammadMudassirRaza12345/scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask)
-
- `- Airline_tickets_data_scrape`[Click Here](https://github.com/MuhammadMudassirRaza12345/Airline_tickets_data_scrape)
  
- `- Hair_and_Conditioner_data_scrape`[Click Here](https://github.com/MuhammadMudassirRaza12345/Hair_and_Conditioner_data_scrape)
+`- Data_Orchestation_With_Airflow (2024)` [Click Here](https://github.com/MuhammadMudassirRaza12345/real-time_crypto_data_pipeline_using_kafka_s3_databricks_snowflake/)
+
+`- PERSONALIZED DIGITAL MATERIAL MAKING APP USING LLM MODEL IN NEXT GPT HACKATHON (2024)` [Click Here](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/README.md)
+
+`- CRYPTO DATA ANALYTICS` [Click Here](https://github.com/MuhammadMudassirRaza12345/real-time_crypto_data_pipeline_using_kafka_s3_databricks_snowflake/)
+
+`- REAL-TIME ROOM OCCUPANCY DETECTION` [Click Here](https://github.com/MuhammadMudassirRaza12345/capstone_deg_01)
+
+`- Data Transforamtion Kafka-Pyspark-docker` [Click Here](https://github.com/MudassirRaza2211-021-KHI-DEG/2211-021-KHI-DEG_final_exam_solutions/tree/main/kafka_pyspark))
+
+`- STOCK MARKET DATA ANALYTICS` [Click Here](https://github.com/MuhammadMudassirRaza12345/Stock-Market-Kafka-Real-Time-Data-Engineering-Project-using-AWS-KAFKA-and-SNOWFLAKE)
+
+`- CRYPTO DATA ANALYTICS WITH DOCKER` [Click Here](https://github.com/MuhammadMudassirRaza12345/real-time_crypto_data_pipeline_using_kafka_snowflake_docker)
+
+`- PIPELINE DATA WITH AIRFLOW AND DISPLAY FINANCIAL CONSUMER REPORT ON STREAMLIT DASHBOARD` [Click Here](https://github.com/MuhammadMudassirRaza12345/Pipeline-Data-with-Airflow-and-streamlit-Dashboard)
+
+`- ETL-DWH-USING-PYSPARK AND SCD2 IMPLEMENTATION` [Click Here](https://github.com/MuhammadMudassirRaza12345/ETL-DwH-using-PySpark)
+
+`- SCRAPE ONE MILLION REPOSITORIES USING GCP AND PERFORM EDA AND VISUALIZATION ` [Click Here](https://github.com/MuhammadMudassirRaza12345/Scrape-one-millions-repositories-using-GCP/blob/main/README.md)
+
+`- YOUTUBE DATA ANALYSIS` [Click Here](https://github.com/MuhammadMudassirRaza12345/dataengineering-youtube-analysis-project)
+
+ `- Essential_SQL_for_Data_Engineers` [Click Here](https://github.com/MuhammadMudassirRaza12345/Essential_SQL_for_Data_Engineers)'
+
+ `- Task-NoSQL` [Click Here](https://github.com/MuhammadMudassirRaza12345/Task-NoSQL)'
+
+ `- scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask` [Click Here](https://github.com/MuhammadMudassirRaza12345/scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask)
+
+ `- Airline_tickets_data_scrape` [Click Here](https://github.com/MuhammadMudassirRaza12345/Airline_tickets_data_scrape)
+ 
+ `- Hair_and_Conditioner_data_scrape` [Click Here](https://github.com/MuhammadMudassirRaza12345/Hair_and_Conditioner_data_scrape)
 
 
 
