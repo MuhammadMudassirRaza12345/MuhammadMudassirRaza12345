@@ -1,10 +1,12 @@
+# portfolio
+
 ### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
 
 ## 🚀 About Me
 🌱I am **Muhammad Mudassir Raza** Complete Bachelors in Computer Science.
 
-💞️ I’m  working as Python Developer and Data Engineer from last one year
+💞️ I’m  working as Python Developer and Data Engineer since 2022 .
 
 👀 I’m interested in solution of problems related to python,ETL Pipeline , DataWare Housing.
 
@@ -19,7 +21,7 @@
 - 📫 How to reach me ...
  -->
  
-## 🛠 Skills 
+ ## 🛠 Skills 
     . Python
     . Scraping (requests, Beautiful soup, scrappy, Selenium)
     . SQL (PostgreSQL, MySQL).
@@ -32,7 +34,8 @@
     . Backend (Flask, Fast Api, Django)
     . Data Visualization (Pandas,Matplotlib,Seaborn)
     . Streamlit
-    . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI, Google Cloud Storage , Google Cloud Bucket , Cloud Function)
+    . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI, Google Cloud Storage , Google Cloud Bucket ,
+           Cloud Function,looker Studio , Cloud scheduler,Big Qeury, Cloud scheduler , Query Scheduler)
     . AWS Databricks
     . Snowflake 
     . DBT Cloud 
@@ -41,10 +44,10 @@
     . Git, Linux and Shell Scripting
     . LLM (GPT-4 Turbo ,Dall-e-3 for image generation)
     . Jira, Click up and Teaching Programming and Computer Science. 
-  
 
-## About My Work
- 
+## Projects :
+
+
 `- Data_Orchestation_With_Airflow (2024)` [Click Here](https://github.com/MuhammadMudassirRaza12345/Data_Orchestation_With_Airflow/tree/main)
 
 `- PERSONALIZED DIGITAL MATERIAL MAKING APP USING LLM MODEL IN NEXT GPT HACKATHON (2024)` [Click Here](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/README.md)
@@ -77,55 +80,23 @@
  
  `- Hair_and_Conditioner_data_scrape` [Click Here](https://github.com/MuhammadMudassirRaza12345/Hair_and_Conditioner_data_scrape)
 
-
-
-
+ ## Certifications :
  
+  ● Databricks Lakehouse Fundamentals | **Databricks,2023** [clickhere](https://credentials.databricks.com/ec23bae6-2ea9-40a2-bfed-2eb3c7b95f0d#gs.1g5xcc)
+
+  ● Certified AWS Cloud Practitioner | **Coursera ,2023** [clickhere](https://www.coursera.org/account/accomplishments/verify/3U2QQ6EN9QEX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+
+  ● Certified AWS Data Analytics | **Udemy ,2023** [clickhere](https://drive.google.com/file/d/1EuQxj3472SXHdhKLSE1Q492Fwu5MQZZ_/view)                       
+
+  ● Certified Data Engineer | **KarachidotAI ,2023** [clickhere](https://eu.badgr.com/public/assertions/QGzRV_X0QxC8qL8d_K_qkQ)
+
+  ● Certified Data Engineer | **Emeritus USA ,2023**
+
+  ● Certified In Python | **Google ,2023** [clickhere](https://www.coursera.org/account/accomplishments/verify/EX4AGXED5NYX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
 
 
+ ## Awards :
 
+ • Unveiling the Stars: An Exploratory Study on NASA Astronauts Hackerton | **HiCounselor, 2023** [cickhere](https://hicounselor.com/certificate/verify/Njk5MDQxOTM=)
  
-
-
-
-> **I am Certified Data Engineer From KarachidotAI . The details of topics and Projects is** [here](https://github.com/MuhammadMudassirRaza12345/KARACHIAI/tree/main#readme)
-
->The basic python begineers to advance level practice is [here](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS#readme)
-
->The python task which i done taken from code with harry is [here](https://github.com/MuhammadMudassirRaza12345/Python_Practice_Code_With_Harry#readme)
-
->The python task which i done take from hakerrank is [here](https://github.com/MuhammadMudassirRaza12345/HackerRank#readme)
-
->The python task which i done take from code wars is [here](https://github.com/MuhammadMudassirRaza12345/code_wars/blob/main/codewars.ipynb)
-
->The python task which i done take from PIAIC is [here](https://github.com/MuhammadMudassirRaza12345/Python_Assignments-PIAIC-#readme)
-
-> The Crud operation Using Flask  is [here](https://todo-list-with-flask.herokuapp.com/)
-
-## Certification
-
-### Google Certification in Python
-![Google Certification in Python](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS/blob/main/images/google_crash_course_python.png?raw=true)
-
-## Badges
-
-### Bronze Badge Earned For Python From Hacker Rank
---------------------------------------------------
-![Bronze Badge Earned For Python From Hacker Rank](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS/blob/main/images/1672202723138.jpg)
---------------------------------------------------
-### Gold Badge Earned For Python From Hacker Rank
---------------------------------------------------
-![Gold Badge From For Python Hacker Rank](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS/blob/main/images/1672935859582.jpg)
---------------------------------------------------
-
-
-## Let's Connect -
-
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-mudassirraza6322ab200-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaali96/)](https://www.linkedin.com/in/mustafaali96/)   -->
-[![Linkedin Badge](https://img.shields.io/badge/-MuhammadMudassirRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MuhammadMudassirRaza/)](https://www.linkedin.com/in/MuhammadMudassirRaza/)   [![Facebook Badge](https://img.shields.io/badge/-mudassir.raza.12345.96-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/mudassir.raza.12345)](https://facebook.com/mudassir.raza.12345)   [![Gmail Badge](https://img.shields.io/badge/-786mudassirraza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:786mudassirraza@gmail.com)](mailto:786mudassirraza@gmail.com)  
-
-<!---
-MuhammadMudassirRaza12345/MuhammadMudassirRaza12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
