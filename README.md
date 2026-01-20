@@ -10,7 +10,7 @@
 
 👀 I’m interested in solution of problems related to python,ETL Pipeline , DataWare Housing.
 
-👯‍♀️ I'm looking to collaborate on open soure projects Data Engineer and Cloud (AWS , GCP).
+👯‍♀️ I'm looking to collaborate on open soure projects Data Engineer and Cloud (AWS , GCP, Azure).
 
 
 
@@ -36,6 +36,7 @@
     . Streamlit
     . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI, Google Cloud Storage , Google Cloud Bucket ,
            Cloud Function,looker Studio , Cloud scheduler,Big Qeury, Cloud scheduler , Query Scheduler)
+    . Azure ( Azure functions , Logic Apps)       
     . AWS Databricks
     . Snowflake 
     . DBT Cloud 
