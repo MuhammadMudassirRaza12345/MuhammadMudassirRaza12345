@@ -22,29 +22,36 @@
  -->
  
  ## 🛠 Skills 
-    . Python
-    . Scraping (requests, Beautiful soup, scrappy, Selenium)
-    . SQL (PostgreSQL, MySQL).
-    . NoSQL (MongoDB)
-    . Airflow, cron job
-    . ETL Pipelines and Data Warehouse and Data Modeling.
-    . Apache spark (SparkSQL and Pyspark)
-    . Kafka (Batch and stream processing)
-    . AWS (Glue, EC2, S3 bucket, Athena, AWS lambda,IAM Roles and policies, AWS Data Brew, AWS Quick Sight)
-    . Backend (Flask, Fast Api, Django)
-    . Data Visualization (Pandas,Matplotlib,Seaborn)
-    . Streamlit
-    . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI, Google Cloud Storage , Google Cloud Bucket ,
-           Cloud Function,looker Studio , Cloud scheduler,Big Qeury, Cloud scheduler , Query Scheduler)
-    . Azure ( Azure functions , Logic Apps)       
-    . AWS Databricks
-    . Snowflake 
-    . DBT Cloud 
-    . Docker and Docker compose
-    . DevOPs and CI/CD and Microservices
-    . Git, Linux and Shell Scripting
-    . LLM (GPT-4 Turbo ,Dall-e-3 for image generation)
-    . Jira, Click up and Teaching Programming and Computer Science. 
+    • Programming: Python, SQL  
+    • Data Engineering: ETL/ELT Pipelines, Data Warehousing, Data Modeling  
+    • APIs & Automation: REST API Integration, API Development (FastAPI, Flask), n8n Workflow Automation  
+    
+    • Big Data & Streaming: Apache Spark (PySpark, SparkSQL), Kafka (Batch & Stream Processing)  
+    
+    • Orchestration: Apache Airflow, Cron Jobs  
+    
+    • Databases: PostgreSQL, MySQL, MongoDB  
+    
+    • Cloud Platforms:  
+      - AWS (S3, Glue, EC2, Lambda, Athena, IAM, DataBrew, QuickSight)  
+      - GCP (BigQuery, Cloud Functions, Cloud Storage, Cloud Scheduler, Vertex AI, Compute Engine, Looker Studio)  
+      - Azure (Functions, Logic Apps)  
+    
+    • Data Tools: Snowflake, Databricks, DBT Cloud  
+    
+    • Backend Development: Flask, FastAPI, Django  
+    
+    • Data Visualization: Pandas, Matplotlib, Seaborn, Streamlit  
+    
+    • DevOps & Tools: Docker, Docker Compose, CI/CD, Microservices, Git, Linux, Shell Scripting  
+    
+    • Web Scraping: Requests, BeautifulSoup, Scrapy, Selenium  
+    
+    • AI/LLM: GPT-4, DALL·E  
+    
+    • Collaboration & Tools: Jira, ClickUp  
+    
+    • Teaching: Programming & Computer Science  
 
 ## Projects :
 
