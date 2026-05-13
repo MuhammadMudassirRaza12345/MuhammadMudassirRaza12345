@@ -7,7 +7,7 @@
     🌱I am **Muhammad Mudassir Raza** Complete Bachelors in Computer Science.
    
     💞️ I’m a Python Developer and Data Engineer with 5+ years of experience designing production-grade ETL pipelines 
-        and real-time data systems 
+        and real-time data systems and AI workflow and AI Automations
 <!-- -  since 2022.
       -->
     
