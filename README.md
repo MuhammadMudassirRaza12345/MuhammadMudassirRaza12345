@@ -58,6 +58,8 @@
 
 ## Projects :
  `- Crypto Market Analytics Pipeline with LLM` [Click Here](https://github.com/MuhammadMudassirRaza12345/Crypto-Market-Analytics-Pipeline)
+
+`- Personal Assistant — n8n AI Agent Workflow` [Click Here](https://github.com/MuhammadMudassirRaza12345/personal_assistant)
  
  `- Mindify App with LLM` [Click Here](https://github.com/MuhammadMudassirRaza12345/mindify-app/tree/main)  
 
