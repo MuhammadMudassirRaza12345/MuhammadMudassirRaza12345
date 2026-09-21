@@ -57,7 +57,9 @@
     • Teaching: Programming & Computer Science  
 
 ## Projects :
-                    [Click Here](https://github.com/MuhammadMudassirRaza12345/Crypto-Market-Analytics-Pipeline)
+ `- Crypto Market Analytics Pipeline with LLM` [Click Here](https://github.com/MuhammadMudassirRaza12345/Crypto-Market-Analytics-Pipeline)
+ 
+ `- Mindify App with LLM` [Click Here](https://github.com/MuhammadMudassirRaza12345/mindify-app/tree/main)  
 
 `- Data_Orchestation_With_Airflow` [Click Here](https://github.com/MuhammadMudassirRaza12345/Data_Orchestation_With_Airflow/tree/main)
 
