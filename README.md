@@ -57,7 +57,7 @@
     • Teaching: Programming & Computer Science  
 
 ## Projects :
-
+                    [Click Here](https://github.com/MuhammadMudassirRaza12345/Crypto-Market-Analytics-Pipeline)
 
 `- Data_Orchestation_With_Airflow` [Click Here](https://github.com/MuhammadMudassirRaza12345/Data_Orchestation_With_Airflow/tree/main)
 
