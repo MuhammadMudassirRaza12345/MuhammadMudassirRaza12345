@@ -1,118 +1,213 @@
-# portfolio [Click Here](https://muhammadmudassirraza12345.github.io/My_Portfolio/)
+# 👋 Hello World! 🌍
 
-
-### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
-✨ Welcome to my **Special** repository ✨
+Welcome to my GitHub profile.
 
 ## 🚀 About Me
-    🌱I am **Muhammad Mudassir Raza** Complete Bachelors in Computer Science.
-   
-    💞️ I’m a Python Developer and Data Engineer with 5+ years of experience designing production-grade ETL pipelines 
-        and real-time data systems and AI workflow and AI Automations
-<!-- -  since 2022.
-      -->
-    
-    👀 I’m interested in solution of problems related to python,ETL Pipeline , DataWare Housing.
-    
-    👯‍♀️ I'm looking to collaborate on open soure projects Data Engineer and Cloud (AWS , GCP, Azure).
 
+I’m **Muhammad Mudassir Raza**, a Computer Science graduate and **Senior Data Engineer** specializing in **Data Engineering, AI, and Cloud**.
 
+I build production-oriented **ETL/ELT pipelines, data platforms, API integrations, workflow automations, and AI/LLM-powered solutions** using Python and cloud technologies.
 
-<!-- - 👋 Hi, I’m @MuhammadMudassirRaza12345
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- -->
- 
- ## 🛠 Skills 
-    • Programming: Python, SQL  
-    • Data Engineering: ETL/ELT Pipelines, Data Warehousing, Data Modeling  
-    • APIs & Automation: REST API Integration, API Development (FastAPI, Flask), n8n Workflow Automation  
-    
-    • Big Data & Streaming: Apache Spark (PySpark, SparkSQL), Kafka (Batch & Stream Processing)  
-    
-    • Orchestration: Apache Airflow, Cron Jobs  
-    
-    • Databases: PostgreSQL, MySQL, MongoDB  
-    
-    • Cloud Platforms:  
-      - AWS (S3, Glue, EC2, Lambda, Athena, IAM, DataBrew, QuickSight)  
-      - GCP (BigQuery, Cloud Functions, Cloud Storage, Cloud Scheduler, Vertex AI, Compute Engine, Looker Studio)  
-      - Azure (Functions, Logic Apps)  
-    
-    • Data Tools: Snowflake, Databricks, DBT Cloud  
-    
-    • Backend Development: Flask, FastAPI, Django  
-    
-    • Data Visualization: Pandas, Matplotlib, Seaborn, Streamlit  
-    
-    • DevOps & Tools: Docker, Docker Compose, CI/CD, Microservices, Git, Linux, Shell Scripting  
-    
-    • Web Scraping: Requests, BeautifulSoup, Scrapy, Selenium  
-    
-    • AI/LLM: GPT-4, DALL·E  
-    
-    • Collaboration & Tools: Jira, ClickUp  
-    
-    • Teaching: Programming & Computer Science  
+My interests include solving real-world problems with **Python, SQL, Data Engineering, Cloud, Automation, and AI**.
 
-## Projects :
- `- Crypto Market Analytics Pipeline with LLM` [Click Here](https://github.com/MuhammadMudassirRaza12345/Crypto-Market-Analytics-Pipeline)
+🌐 **Portfolio**
 
-`- Personal Assistant — n8n AI Agent Workflow` [Click Here](https://github.com/MuhammadMudassirRaza12345/personal_assistant)
- 
- `- Mindify App with LLM` [Click Here](https://github.com/MuhammadMudassirRaza12345/mindify-app/tree/main)  
+<p align="center">
+  <a href="https://muhammadmudassirraza12345.github.io/My_Portfolio/">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-Visit%20Portfolio-2F80ED?style=for-the-badge" alt="View My Portfolio"/>
+  </a>
+</p>
 
-`- Data_Orchestation_With_Airflow` [Click Here](https://github.com/MuhammadMudassirRaza12345/Data_Orchestation_With_Airflow/tree/main)
+---
 
-`- PERSONALIZED DIGITAL MATERIAL MAKING APP USING LLM MODEL IN NEXT GPT HACKATHON` [Click Here](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/README.md)
+## 🛠️ Technical Skills
 
-`- CRYPTO DATA ANALYTICS` [Click Here](https://github.com/MuhammadMudassirRaza12345/real-time_crypto_data_pipeline_using_kafka_s3_databricks_snowflake/)
+### 💻 Programming
 
-`- REAL-TIME ROOM OCCUPANCY DETECTION` [Click Here](https://github.com/MuhammadMudassirRaza12345/capstone_deg_01)
+* Python
+* SQL
 
-`- Data Transforamtion Kafka-Pyspark-docker` [Click Here](https://github.com/MudassirRaza2211-021-KHI-DEG/2211-021-KHI-DEG_final_exam_solutions/tree/main/kafka_pyspark))
+### 📊 Data Engineering
 
-`- STOCK MARKET DATA ANALYTICS` [Click Here](https://github.com/MuhammadMudassirRaza12345/Stock-Market-Kafka-Real-Time-Data-Engineering-Project-using-AWS-KAFKA-and-SNOWFLAKE)
+* ETL / ELT Pipelines
+* Data Warehousing
+* Data Modeling
+* Data Transformation
+* Data Integration
+* SCD Type 2
 
-`- CRYPTO DATA ANALYTICS WITH DOCKER` [Click Here](https://github.com/MuhammadMudassirRaza12345/real-time_crypto_data_pipeline_using_kafka_snowflake_docker)
+### 🔗 APIs & Automation
 
-`- PIPELINE DATA WITH AIRFLOW AND DISPLAY FINANCIAL CONSUMER REPORT ON STREAMLIT DASHBOARD` [Click Here](https://github.com/MuhammadMudassirRaza12345/Pipeline-Data-with-Airflow-and-streamlit-Dashboard)
+* REST APIs
+* FastAPI
+* Flask
+* n8n
+* Workflow Automation
+* API Integration
 
-`- ETL-DWH-USING-PYSPARK AND SCD2 IMPLEMENTATION` [Click Here](https://github.com/MuhammadMudassirRaza12345/ETL-DwH-using-PySpark)
+### ☁️ Cloud Platforms
 
-`- SCRAPE ONE MILLION REPOSITORIES USING GCP AND PERFORM EDA AND VISUALIZATION ` [Click Here](https://github.com/MuhammadMudassirRaza12345/Scrape-one-millions-repositories-using-GCP/blob/main/README.md)
+**AWS**
 
-`- YOUTUBE DATA ANALYSIS` [Click Here](https://github.com/MuhammadMudassirRaza12345/dataengineering-youtube-analysis-project)
+* S3
+* Glue
+* EC2
+* Lambda
+* Athena
+* IAM
 
- `- Essential_SQL_for_Data_Engineers` [Click Here](https://github.com/MuhammadMudassirRaza12345/Essential_SQL_for_Data_Engineers)'
+**GCP**
 
- `- Task-NoSQL` [Click Here](https://github.com/MuhammadMudassirRaza12345/Task-NoSQL)'
+* BigQuery
+* Cloud Storage
+* Cloud Functions
+* Cloud Scheduler
+* Cloud Run
+* Vertex AI
+* Compute Engine
 
- `- scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask` [Click Here](https://github.com/MuhammadMudassirRaza12345/scrape_e-commerce_data_and_dump_in_sql_and_showdata_on_frontend_using_flask)
+**Azure**
 
- `- Airline_tickets_data_scrape` [Click Here](https://github.com/MuhammadMudassirRaza12345/Airline_tickets_data_scrape)
- 
- `- Hair_and_Conditioner_data_scrape` [Click Here](https://github.com/MuhammadMudassirRaza12345/Hair_and_Conditioner_data_scrape)
+* Azure Functions
+* Logic Apps
 
- ## Certifications :
- 
-  ● Databricks Lakehouse Fundamentals | **Databricks,2023** [clickhere](https://credentials.databricks.com/ec23bae6-2ea9-40a2-bfed-2eb3c7b95f0d#gs.1g5xcc)
+### 🗄️ Databases & Data Platforms
 
-  ● Certified AWS Cloud Practitioner | **Coursera ,2023** [clickhere](https://www.coursera.org/account/accomplishments/verify/3U2QQ6EN9QEX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+* PostgreSQL
+* MySQL
+* MongoDB
+* BigQuery
+* Snowflake
+* Databricks
 
-  ● Certified AWS Data Analytics | **Udemy ,2023** [clickhere](https://drive.google.com/file/d/1EuQxj3472SXHdhKLSE1Q492Fwu5MQZZ_/view)                       
+### ⚙️ Data & Engineering Tools
 
-  ● Certified Data Engineer | **KarachidotAI ,2023** [clickhere](https://eu.badgr.com/public/assertions/QGzRV_X0QxC8qL8d_K_qkQ)
+* dbt
+* Apache Airflow
+* Apache Spark / PySpark
+* Kafka
+* Docker
+* Docker Compose
+* Git
+* GitHub Actions
+* Linux
+* Shell Scripting
 
-  ● Certified Data Engineer | **Emeritus USA ,2023**
+### 🤖 AI & LLM
 
-  ● Certified In Python | **Google ,2023** [clickhere](https://www.coursera.org/account/accomplishments/verify/EX4AGXED5NYX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+* LLM Applications
+* RAG
+* AI Agents
+* GPT-based Applications
+* AI Workflow Automation
+* LLM-powered Data Applications
 
+### 🕷️ Web Scraping & Data Collection
 
- ## Awards :
+* Requests
+* BeautifulSoup
+* Selenium
+* Playwright
 
- • Unveiling the Stars: An Exploratory Study on NASA Astronauts Hackerton | **HiCounselor, 2023** [cickhere](https://hicounselor.com/certificate/verify/Njk5MDQxOTM=)
- 
- 
+### 📈 Analytics & Visualization
+
+* Pandas
+* Matplotlib
+* Streamlit
+* Looker Studio
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Crypto Market Analytics Pipeline with LLM
+
+End-to-end data pipeline combining market data, analytics, and LLM capabilities.
+
+[View Project](https://github.com/MuhammadMudassirRaza12345/Crypto-Market-Analytics-Pipeline)
+
+### 🔹 Personal Assistant — n8n AI Agent
+
+AI-powered personal assistant built using workflow automation and AI agents.
+
+[View Project](https://github.com/MuhammadMudassirRaza12345/personal_assistant)
+
+### 🔹 Mindify — LLM Application
+
+LLM-powered application built to explore AI-assisted user interactions.
+
+[View Project](https://github.com/MuhammadMudassirRaza12345/mindify-app)
+
+### 🔹 RAG / LLM Projects
+
+Projects exploring document ingestion, retrieval, RAG pipelines, and LLM applications.
+
+### 🔹 GitHub Repository Data Pipeline
+
+Large-scale GitHub repository data collection and processing using cloud technologies.
+
+[View Project](https://github.com/MuhammadMudassirRaza12345/Scrape-one-millions-repositories-using-GCP)
+
+### 🔹 ETL Data Warehouse with PySpark
+
+ETL and data warehousing implementation using PySpark with SCD Type 2.
+
+[View Project](https://github.com/MuhammadMudassirRaza12345/ETL-DwH-using-PySpark)
+
+### 🔹 Real-Time Data Engineering
+
+Real-time data engineering projects using Kafka, Spark, Docker, Snowflake, and AWS.
+
+[View Project](https://github.com/MuhammadMudassirRaza12345/Stock-Market-Kafka-Real-Time-Data-Engineering-Project-using-AWS-KAFKA-and-SNOWFLAKE)
+
+---
+
+## 🏆 Certifications
+
+* **Certified Data Engineer** — Emeritus USA
+* **Certified Data Engineer** — Karachi AI
+* **Databricks Lakehouse Fundamentals** — Databricks
+* **AWS Cloud Practitioner** — Coursera
+* **AWS Data Analytics** — Udemy
+* **Python Certification** — Google
+
+---
+
+## 🏅 Awards & Achievements
+
+* **Unveiling the Stars: NASA Astronauts — Exploratory Data Analysis Hackathon**
+  HiCounselor, 2023
+
+---
+
+## 🤝 Open Source & Collaboration
+
+I’m interested in collaborating on projects related to:
+
+* Data Engineering
+* Cloud Data Platforms
+* AI / LLM Applications
+* RAG Systems
+* Data Automation
+* Python
+* Open Source Projects
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://muhammadmudassirraza12345.github.io/My_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadmudassirraza/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MuhammadMudassirRaza12345">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Data Engineering • AI • Cloud</b>
+</p>
